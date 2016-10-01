@@ -1,6 +1,6 @@
 {
   "name": "on-hold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repeated events for pressing and holding down DOM elements.",
   "main": "index.js",
   "scripts": {
