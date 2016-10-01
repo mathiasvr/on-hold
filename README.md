@@ -34,8 +34,11 @@ document.body.appendChild(btn)
 
 ### `onHold(domElement, [{ wait: 500, interval: 200 }], action)`
 `domElement`: element to attach events to.
+
 `opts.wait`: initial time in ms to hold down before repeating action.
+
 `opts.interval`: interval in ms between repeated actions after inital hold down.
+
 `action`: event handler function.
 
 ## license
