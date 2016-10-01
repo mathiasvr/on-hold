@@ -1,0 +1,33 @@
+{
+  "name": "on-hold",
+  "version": "1.0.0",
+  "description": "Repeated events for pressing and holding down DOM elements.",
+  "main": "index.js",
+  "scripts": {
+    "example": "wzrd example.js",
+    "test": "standard"
+  },
+  "keywords": [
+    "hold",
+    "down",
+    "event",
+    "button",
+    "press"
+  ],
+  "author": "Mathias Rasmussen <mathiasvr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "wzrd": "^1.4.0"
+  },
+  "dependencies": {
+    "wzrd": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasvr/on-hold.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mathiasvr/on-hold/issues"
+  },
+  "homepage": "https://github.com/mathiasvr/on-hold#readme"
+}
