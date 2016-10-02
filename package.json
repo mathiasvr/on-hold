@@ -19,9 +19,7 @@
   "devDependencies": {
     "wzrd": "^1.4.0"
   },
-  "dependencies": {
-    "wzrd": "^1.4.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mathiasvr/on-hold.git"
