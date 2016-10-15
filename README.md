@@ -9,6 +9,8 @@
 
 Repeated events for pressing and holding down DOM elements.
 
+[View example on RequireBin](http://requirebin.com/?gist=2f7235f67e494f743ab722cc93a46fda)
+
 ## install
 ```bash
 npm install on-hold
