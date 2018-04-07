@@ -4,16 +4,16 @@
 [npm-url]: https://www.npmjs.com/package/on-hold
 [dep-img]: https://david-dm.org/mathiasvr/on-hold.svg
 [dep-url]: https://david-dm.org/mathiasvr/on-hold
-[lic-img]: http://img.shields.io/:license-MIT-blue.svg
-[lic-url]: http://mvr.mit-license.org
+[lic-img]: https://img.shields.io/:license-MIT-blue.svg
+[lic-url]: https://mvr.mit-license.org
 
 Repeated events for pressing and holding down DOM elements.
 
 [View example on RequireBin](http://requirebin.com/?gist=2f7235f67e494f743ab722cc93a46fda)
 
 ## install
-```bash
-npm install on-hold
+```
+$ npm install on-hold
 ```
 
 ## example
@@ -34,7 +34,7 @@ document.body.appendChild(btn)
 
 ## api
 
-### `onHold(element, [{ wait: 500, interval: 200 }], action)`
+### `onHold(element [, { wait: 500, interval: 200 }], action)`
 
 #### element
 DOM element to attach events to.
